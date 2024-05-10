@@ -1,0 +1,95 @@
+{
+  "formControls": [
+    {
+      "label": "Name",
+      "id": "name",
+      "tagName": "input",
+      "type": "text",
+      "class": "form-control",
+      "value": "aaa",
+      "required": true,
+      "options": []
+    },
+    {
+      "label": "Age",
+      "id": "age",
+      "tagName": "input",
+      "type": "number",
+      "class": "form-control",
+      "value": "",
+      "required": false,
+      "options": []
+    },
+    {
+      "label": "Student",
+      "id": "student",
+      "tagName": "input",
+      "type": "checkbox",
+      "class": "form-check",
+      "value": "",
+      "required": false,
+      "options": []
+    },
+    {
+      "label": "Worker",
+      "id": "worker",
+      "tagName": "input",
+      "type": "checkbox",
+      "class": "form-check",
+      "value": "",
+      "required": false,
+      "options": []
+    },
+    {
+      "label": "Legal Age",
+      "id": "legal-age",
+      "tagName": "input",
+      "type": "radio",
+      "class": "form-check",
+      "value": "",
+      "required": true,
+      "options": ["Yes", "No"]
+    },
+    {
+      "label": "Email",
+      "id": "email",
+      "tagName": "input",
+      "type": "email",
+      "class": "form-control",
+      "value": "",
+      "required": true,
+      "options": []
+    },
+    {
+      "label": "Department",
+      "id": "department",
+      "tagName": "select",
+      "type": "",
+      "class": "form-control",
+      "value": "",
+      "required": false,
+      "options": ["Human Resources", "IT", "Finance", "Marketing"]
+    },
+    {
+      "label": "Comments",
+      "id": "comments",
+      "tagName": "textarea",
+      "type": "",
+      "class": "form-control",
+      "value": "",
+      "required": false,
+      "rows": 5,
+      "options": []
+    },
+    {
+      "label": "Submit",
+      "id": "submit",
+      "tagName": "button",
+      "type": "submit",
+      "class": "btn btn-primary",
+      "value": "",
+      "required": false,
+      "options": []
+    }
+  ]
+}
